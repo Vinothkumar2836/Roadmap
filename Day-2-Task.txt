@@ -1,0 +1,8 @@
+Write a blog on Difference between document and window objects?
+
+The window object represents the browser window.
+The document object represents the HTML document loaded in that window.
+
+
+
+
